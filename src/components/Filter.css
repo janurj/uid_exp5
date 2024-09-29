@@ -1,0 +1,16 @@
+/* Filter component CSS */
+.filter-container {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  label {
+    margin-right: 10px;
+    font-size: 1.2rem;
+  }
+  
+  select {
+    padding: 5px;
+    font-size: 1rem;
+  }
+  
